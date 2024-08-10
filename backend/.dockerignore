@@ -1,0 +1,17 @@
+.git
+.gitignore
+node_modules
+npm-debug.log
+
+backend/node_modules
+backend/dist
+backend/.env
+backend/pnpm-lock.yaml
+
+*.local
+*.env.local
+*.log
+
+.vscode
+.idea
+.DS_Store
